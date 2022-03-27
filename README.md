@@ -1,0 +1,2 @@
+- 👋 Gratidão, Meu nome é Paulo César, tenho 20 anos de idade e estou me formando em Sistemas para internet; uma aréa extensa e interdisciplinar com muitos bons conteúdos para a grade curricular e conhecimento informático. 
+- Esse é meu primeiro git e vamos ver onde isso da e chega kk.
